@@ -2,8 +2,6 @@
 <img src="examples/boothy.png" alt="Boothy" width="2000" height="240" align="center"
 </div>
 
-
-
 # Boothy
 
 Boothy is an Open Source bootstrap hypothesis library that can help you evaluate different types of hypothesis tests. The aim of boothy is to give an easy way to perform an hypothesis test and interpretation of results.
@@ -23,8 +21,6 @@ The following packages are required to install boothy:
 
 * Seaborn 0.12.1
 
-
-
 ### Installing
 
 To install boothy in the terminal run
@@ -33,7 +29,7 @@ To install boothy in the terminal run
 
 ## Versioning
 
-We use [Semantic Versioning](http://semver.org/) for versioning. Current version is 0.1.0
+We use [Semantic Versioning](http://semver.org/) for versioning. Current version is 0.1.1
 
 ## Authors
 
