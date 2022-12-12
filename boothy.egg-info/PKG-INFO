@@ -1,4 +1,7 @@
 Metadata-Version: 2.1
 Name: boothy
-Version: 0.1
+Version: 0.1.1
 Summary: Bootstrap hypothesis testing
+License-File: LICENSE
+
+Boothy is an Open Source bootstrap hypothesis library       that can help you evaluate different types of hypothesis tests. The aim       of boothy is to give an easy way to perform an hypothesis test and       interpretation of results.
